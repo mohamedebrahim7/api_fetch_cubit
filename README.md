@@ -10,9 +10,18 @@ This code snippet includes:
 - Fetching data from an API endpoint using Dio.
 - Handling different UI states (`inProgress`, `success`, `genericError`, `invalidCredentialsError`).
 
-
 ## Screenshots
 
-| inProgress  | success  | genericError/invalidCredentialsError |
-|:------------------------------------:|:------------------------------------:|:------------------------------------:|
-| ![Screenshot 1](fetch_api_cubit/screen_shots/Screenshot_1.jpg) | ![Screenshot 2](fetch_api_cubit/screen_shots/Screenshot_2.jpg) | ![Screenshot 3](fetch_api_cubit/screen_shots/Screenshot_3.jpg) |
+<table>
+  <tr>
+    <td>inProgress</td>
+     <td>success</td>
+     <td>genericError / invalidCredentialsError</td>
+  </tr>
+  <tr>
+    <td><img src="fetch_api_cubit/screen_shots/Screenshot_1.jpg" width=270 height=480></td>
+    <td><img src="fetch_api_cubit/screen_shots/Screenshot_2.jpg" width=270 height=480></td>
+    <td><img src="fetch_api_cubit/screen_shots/Screenshot_3.jpg" width=270 height=480></td>
+  </tr>
+ </table>
+
